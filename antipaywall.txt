@@ -1,4 +1,4 @@
-! Title: Anti-paywall filters
+! Title: Anti-paywall Filters
 ! Expires: 3 days
 ! Description: Filters for news websites, including filters to defuse paywalls, subscription/newsletter nags, annoying modals, anti-adblock, and empty ad spaces on news websites
 ! Note: cookie notices will not be hidden by this list
