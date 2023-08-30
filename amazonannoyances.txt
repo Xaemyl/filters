@@ -1,4 +1,4 @@
-! Title: Amazon annoyances
+! Title: Amazon Annoyances
 ! Expires: 3 days
 ! Description: Block annoyances, ads, and tracking on Amazon sites
 ! Homepage: https://github.com/llacb47/miscfilters
