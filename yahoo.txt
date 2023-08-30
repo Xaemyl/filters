@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Filters for verizon media sites - yahoo, aol, techcrunch, etc.
 ! Title: Filters for verizon media sites
 ! Expires: 3 days
