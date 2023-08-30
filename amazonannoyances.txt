@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Title: Amazon annoyances
 ! Expires: 3 days
 ! Description: Block annoyances, ads, and tracking on Amazon sites
