@@ -1,4 +1,4 @@
-! Title: Facebook list
+! Title: Facebook Filters
 ! Expires: 3 days
 ! Portions of this list adapted from https://github.com/kowith337/PersonalFilterListCollection/blob/master/filterlist/facebook/FacebookZuckestionKiller.txt
 
