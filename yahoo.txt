@@ -1,4 +1,4 @@
-! Filters for verizon media sites - yahoo, aol, techcrunch, etc.
+! Filters for Verizon Media Sites [Yahoo, AOL, TechCrunch, etc.]
 ! Title: Filters for Verizon Media Sites
 ! Expires: 3 days
 ! Description: 
