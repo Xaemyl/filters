@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! Title: Anti-paywall filters
 ! Expires: 3 days
 ! Description: Filters for news websites, including filters to defuse paywalls, subscription/newsletter nags, annoying modals, anti-adblock, and empty ad spaces on news websites
